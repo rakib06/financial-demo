@@ -5,6 +5,10 @@ This is an example chatbot demonstrating how to build AI assistants for financia
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+python3.7 -m venv py37-venv
+
+
 **Table of Contents**
 
 - [Financial Services Example Bot](#financial-services-example-bot)
@@ -21,6 +25,7 @@ This is an example chatbot demonstrating how to build AI assistants for financia
   - [Action Server Image](#action-server-image)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+The server is running at http://localhost:5002/login?username=me&password=CLaCb5A1qUkk
 
 ## Install dependencies
 
