@@ -8,6 +8,9 @@ This is an example chatbot demonstrating how to build AI assistants for financia
 
 python3.7 -m venv py37-venv
 
+## for web socket.io
+python -m http.server 3000
+
 
 **Table of Contents**
 

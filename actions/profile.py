@@ -28,7 +28,7 @@ def create_mock_profile():
         "interest",
     ]
     recipient_db = [
-        "katy parrow",
+        "rakibul hasan",
         "evan oslo",
         "william baker",
         "karen lancaster",
@@ -38,9 +38,9 @@ def create_mock_profile():
         "lisa macintyre",
     ]
     vendor_db = [
-        "target",
-        "starbucks",
-        "amazon",
+        "Genuity",
+        "gTalk",
+        "evaly",
     ]
 
     start_date = utc.localize(datetime(2019, 1, 1))
